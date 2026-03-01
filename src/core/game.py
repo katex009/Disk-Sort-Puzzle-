@@ -11,7 +11,8 @@ pygame.init()
 class myGame(GameBase):
 
     def __init__(self) -> None:
-
+        ###
+        x=1
         meta = GameMetadata(
             title="Disk Sort Puzzle",
             description="juego puzzle para ni\u00f1os con TDAH",
